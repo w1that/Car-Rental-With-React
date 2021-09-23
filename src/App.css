@@ -1,0 +1,244 @@
+.App {
+  text-align: center;
+  background-color: #1A1A1D;
+}
+
+.logoImage:hover{
+  opacity: 70% ;
+  cursor: pointer ;
+}
+
+.categoryButton{
+  color:white ;
+}
+.categoryButton:hover{
+ opacity: 70% ;
+  cursor: pointer ;
+}
+
+.naviButton:hover{
+  opacity: 70% ;
+}
+
+.carImage:hover{
+  cursor: pointer;
+  opacity: 70% ;
+}
+
+.minMaxInput{
+  width: 60px;
+  border-radius: 5px ;
+  text-align: center;
+  padding: 5px;
+}
+
+
+.filterButton{
+  border:0px;
+  padding: 8px;
+  width: 100%;
+  margin-top: 2em;
+  border-radius: 5px;
+  background-color: #6F2232;
+  color:white;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+.filterButton:hover{
+  background-color: #5B0416;
+  
+  cursor: pointer;
+}
+
+.searchIconDiv:hover{
+  background-color: #C3073F;
+  color:white;
+  cursor: pointer;
+  opacity: 70%;
+  border: none;
+}
+
+.signinpage{
+  width: 400px;
+  height:550px;
+  background-color: #696969; 
+  margin-top: 100px;
+  border-radius: 10px;
+
+}
+
+.signinbutton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 1em;
+  border-radius: 7px;
+  width: 130px;
+  margin-top: 3em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.signinbutton:hover{
+  opacity: 80%;
+  cursor: pointer;
+}
+
+.signuppage{
+  width: 600px;
+  background-color: #696969; 
+  margin-top: 2em;
+  border-radius: 10px;
+  
+}
+
+
+
+.activateButton:hover{
+  opacity: 70%;
+}
+.activateeButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 1em;
+  border-radius: 7px;
+  width: 130px;
+  margin-top: 1em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+.activateeButton:hover{
+  opacity: 80%;
+  cursor: pointer;
+}
+
+.activateBox{
+  width: 400px;
+  height:450px;
+  background-color: #696969; 
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.rentCarButton{
+  background-color: #C3073F;
+  border: 0px;
+  padding:10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 1px;
+  border-radius: 8px;
+  margin-top: 10px;
+  align-self: right;
+}
+.customizedButton:hover{
+  opacity: 80%;
+  cursor: pointer;
+}
+
+.updateProfileButton{
+  background-color: #C3073F;
+  border: 0px;
+  padding:10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 1px;
+  border-radius: 8px;
+  margin-top: 10px;
+  align-self: right;
+}
+
+.updateBox{
+  width: 400px;
+  background-color: #696969; 
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.changeText:hover{
+  opacity: 70%;
+  cursor: pointer;
+}
+
+.alice-carousel ul li img{
+  height: 400px;
+  width: 600px;
+}
+
+.deleteCarButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  letter-spacing: 1px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.addCarPage{
+  width: 400px;
+  background-color: #696969; 
+  margin-top: 100px;
+  border-radius: 10px;
+  padding-top: 2em;
+}
+input[type="file"] {
+  display: none;
+}
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+}
+
+.nextButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 1em;
+  border-radius: 7px;
+  width: 130px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.addCarButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 1em;
+  border-radius: 7px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  
+}
+
+.rentButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 1em;
+  border-radius: 7px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.returnButton{
+  background-color: #C3073F;
+  border: 0px;
+  color: white;
+  padding: 5px;
+  border-radius: 7px;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
